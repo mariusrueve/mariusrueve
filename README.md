@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marius</h1>
 <h3 align="center">[Student] Bachelor of Science Bioinformatics</h3>
 
-- 🔭 I’m currently working on [scrnaseq_app](https://github.com/MHH-RCUG/scrnaseq_app) for the [Research Core Unit Genomics at Hannover Medical School ](https://github.com/MHH-RCUG)
+🔭 I’m currently working on [scrnaseq_app](https://github.com/MHH-RCUG/scrnaseq_app) for the [Research Core Unit Genomics at Hannover Medical School ](https://github.com/MHH-RCUG)
 
-- 📫 How to reach me: marius.rueve@live.de
+📫 How to reach me: marius.rueve@live.de
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
