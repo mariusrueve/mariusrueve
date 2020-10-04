@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [scrnaseq_app](https://github.com/MHH-RCUG/scrnaseq_app) for the [Research Core Unit Genomics at Hannover Medical School ](https://github.com/MHH-RCUG)
 
-- ⚡ Languages and Tools: Java, Python, R, Git, Linux, Bash, MySQL, MangoDB, 
 - 📫 How to reach me: marius.rueve@live.de
 
 <h3 align="left">Languages and Tools:</h3>
